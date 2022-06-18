@@ -1,0 +1,1 @@
+INSERT INTO APAJSCAUDR_Trans_Input (12,	9992,	3,	3,	"2013-01-01 0:00:00",	"2014-01-01 0:00:00",	1006,	"Num12 test",	"Num12 testing",	10,	20, null);
